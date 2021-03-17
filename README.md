@@ -1,4 +1,4 @@
-# managers-guide-to-sabrina-sarver
+# Managers Guide to Sabrina Sarver
 
 ## About ##
 
