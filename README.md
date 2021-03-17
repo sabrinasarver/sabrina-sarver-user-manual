@@ -1,7 +1,7 @@
 # managers-guide-to-sabrina-sarver
 
-##About##
+## About ##
 
-##Features##
+## Features ##
 
-##Bugs##
+## Bugs ## 
